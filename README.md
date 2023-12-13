@@ -1,4 +1,4 @@
-# Classic Arcade Games Collection in C
+# C-Language-Games
 
 This project is a compilation of four iconic arcade games, all implemented in C language. Each game has been carefully crafted to offer an engaging and nostalgic gaming experience. Users have the flexibility to launch the games via a visual menu using `setup.py` or directly access the C source code within the project folders.
 
